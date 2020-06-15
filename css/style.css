@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.image{
+    margin-top: 10vh;
+    
+}
+.images{
+   width: 100%;
+}
+.container{
+    display: inline-block;
+    width: 24vw;
+    font-size: 20px;
+}
+p{
+    text-align: center;
+}
